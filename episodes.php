@@ -1,4 +1,3 @@
-<?php
-$nama = "moh nurjaman";
-echo $nama;
-?>
+<html>
+  <h1>Genre</h1>
+</html>
